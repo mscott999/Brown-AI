@@ -1,3 +1,8 @@
+//Repository steps
 git clone https//url
 git add "filename"
 git commit -m "commit message"
+git push -u origin main
+
+//Reflection
+Today was the first day of the program and it was very informative. The most interesting fact I learned is that the concept and idea of artificial intelligence has existed even before computers did, dating back to ancient Greece. I also learned that developing an AI capable of performing a simple task is manageable, however developing a general agent to fulfill a broad task is much more difficult. Setting up the IDE we will be using for Python was easy, and I am excited to begin work on our future projects!
