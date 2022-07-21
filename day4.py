@@ -1,3 +1,4 @@
+#Import method 1.
 import math
 import random
 
@@ -11,6 +12,7 @@ random.shuffle(names)
 print("names after shuffling:", names)
 print("chosen name is:", random.choice(names))
 
+#Import method 2.
 #import math as m
 #import random as r
 #
@@ -24,6 +26,7 @@ print("chosen name is:", random.choice(names))
 #print("names after shuffling:", names)
 #print("chosen name is:", r.choice(names))
 #
+#Import method 3.
 #from math import pow, sqrt
 #from random import randint, shuffle, choice
 #
